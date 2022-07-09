@@ -1,20 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/Unity/Unity'sProject/Ball Launcher/Packages/manifest.json
+    m_FilePath: D:/GitHub/Git/Ball-Launcher/Ball Launcher/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637923500347650121
-    m_Hash: 1963389025
+      ticks: 637928960465043277
+    m_Hash: 2638604295
   m_LockFileStatus:
-    m_FilePath: D:/Unity/Unity'sProject/Ball Launcher/Packages/packages-lock.json
+    m_FilePath: D:/GitHub/Git/Ball-Launcher/Ball Launcher/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637923500628544699
-    m_Hash: 3265909920
+      ticks: 637928960465259877
+    m_Hash: 2911845212
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.1.0
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.2d.animation@5.1.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.2d.animation@5.1.0
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -111,6 +111,7 @@ m_PackageAssets:
         - 5.1.1
         - 5.2.0
         - 5.2.1
+        - 5.2.3
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         - 6.0.1
@@ -139,6 +140,7 @@ m_PackageAssets:
         - 5.1.1
         - 5.2.0
         - 5.2.1
+        - 5.2.3
         verified: 5.1.1
       dependencies:
       - name: com.unity.2d.common
@@ -198,7 +200,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.1
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -273,7 +275,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.2.0
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.2d.psdimporter@4.2.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.2d.psdimporter@4.2.0
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -411,7 +413,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.2d.sprite@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.2d.sprite@1.0.0
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
       displayName: 2D Sprite
@@ -462,7 +464,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.2.0
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.2d.spriteshape@5.2.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.2d.spriteshape@5.2.0
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -617,7 +619,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.2d.tilemap@1.0.0
       assetPath: Packages/com.unity.2d.tilemap
       name: com.unity.2d.tilemap
       displayName: 2D Tilemap Editor
@@ -662,12 +664,177 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+    - packageId: com.unity.cinemachine@2.6.15
+      testable: 0
+      isDirectDependency: 1
+      version: 2.6.15
+      source: 1
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.cinemachine@2.6.15
+      assetPath: Packages/com.unity.cinemachine
+      name: com.unity.cinemachine
+      displayName: Cinemachine
+      author:
+        name: 
+        email: 
+        url: 
+      category: cinematography
+      type: 
+      description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
+        If you are upgrading from the Asset Store version of Cinemachine, delete
+        the Cinemachine asset from your project BEFORE installing this version from
+        the Package Manager."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.11-beta.1
+        - 2.1.12
+        - 2.1.13
+        - 2.2.0
+        - 2.2.7
+        - 2.2.8
+        - 2.2.9
+        - 2.2.10-preview.3
+        - 2.2.10-preview.4
+        - 2.3.1
+        - 2.3.3
+        - 2.3.4
+        - 2.3.5-preview.3
+        - 2.4.0-preview.3
+        - 2.4.0-preview.4
+        - 2.4.0-preview.6
+        - 2.4.0-preview.7
+        - 2.4.0-preview.8
+        - 2.4.0-preview.9
+        - 2.4.0-preview.10
+        - 2.4.0
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.6.5
+        - 2.6.9
+        - 2.6.10
+        - 2.6.11
+        - 2.6.14
+        - 2.6.15
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        - 2.7.4
+        - 2.7.5
+        - 2.7.8
+        - 2.7.9
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
+        - 2.8.0-pre.1
+        - 2.8.0
+        - 2.8.1
+        - 2.8.2
+        - 2.8.3
+        - 2.8.4
+        - 2.8.6
+        - 2.9.0-pre.1
+        - 2.9.0-pre.6
+        compatible:
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.6.5
+        - 2.6.9
+        - 2.6.10
+        - 2.6.11
+        - 2.6.14
+        - 2.6.15
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        - 2.7.4
+        - 2.7.5
+        - 2.7.8
+        - 2.7.9
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
+        - 2.8.0-pre.1
+        - 2.8.0
+        - 2.8.1
+        - 2.8.2
+        - 2.8.3
+        - 2.8.4
+        - 2.8.6
+        - 2.9.0-pre.1
+        - 2.9.0-pre.6
+        verified: 2.6.15
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - camera
+      - follow
+      - rig
+      - fps
+      - cinematography
+      - aim
+      - orbit
+      - cutscene
+      - cinematic
+      - collision
+      - freelook
+      - cinemachine
+      - compose
+      - composition
+      - dolly
+      - track
+      - clearshot
+      - noise
+      - framing
+      - handheld
+      - lens
+      - impulse
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637892795820000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+        revision: 9799aa01355f2f7fb86c3cb5a6796b2d005e5c51
+        path: 
     - packageId: com.unity.collab-proxy@1.15.7
       testable: 0
       isDirectDependency: 1
       version: 1.15.7
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.collab-proxy@1.15.7
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.collab-proxy@1.15.7
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -812,12 +979,93 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
         revision: d208594e5483cdf10d303b6ee17df4d6bf58d3de
         path: 
+    - packageId: com.unity.device-simulator@3.0.3-preview
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.3-preview
+      source: 1
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.device-simulator@3.0.3-preview
+      assetPath: Packages/com.unity.device-simulator
+      name: com.unity.device-simulator
+      displayName: Device Simulator
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Device Simulator is an alternative to the traditional Unity editor
+        Game window. By simulating Screen and SystemInfo class behavior, Device Simulator
+        aims to give an accurate picture of how an app will look on a device.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0-preview
+        - 1.1.0-preview
+        - 1.2.0-preview
+        - 1.3.0-preview
+        - 2.0.0-preview
+        - 2.1.0-preview
+        - 2.1.1-preview
+        - 2.2.0-preview
+        - 2.2.1-preview
+        - 2.2.2-preview
+        - 2.2.3-preview
+        - 2.2.4-preview
+        - 3.0.0-preview
+        - 3.0.1-preview
+        - 3.0.2-preview
+        - 3.0.3-preview
+        compatible:
+        - 1.0.0-preview
+        - 1.1.0-preview
+        - 1.2.0-preview
+        - 1.3.0-preview
+        - 2.0.0-preview
+        - 2.1.0-preview
+        - 2.1.1-preview
+        - 2.2.0-preview
+        - 2.2.1-preview
+        - 2.2.2-preview
+        - 2.2.3-preview
+        - 2.2.4-preview
+        - 3.0.0-preview
+        - 3.0.1-preview
+        - 3.0.2-preview
+        - 3.0.3-preview
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - Device
+      - Simulator
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637723169670000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/Unity-Technologies/com.unity.device-simulator.git
+        revision: 45f5dce42e9c1f891f83d5d31a3d4180027c5d24
+        path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -936,7 +1184,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.14
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.ide.visualstudio@2.0.14
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.ide.visualstudio@2.0.14
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -1031,7 +1279,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.4
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.ide.vscode@1.2.4
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.ide.vscode@1.2.4
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -1099,12 +1347,144 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/com.unity.ide.vscode.git
         revision: 1f4f605d5c988cb610c372b5c5216c46cc8f5d30
         path: 
+    - packageId: com.unity.inputsystem@1.3.0
+      testable: 0
+      isDirectDependency: 1
+      version: 1.3.0
+      source: 1
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.inputsystem@1.3.0
+      assetPath: Packages/com.unity.inputsystem
+      name: com.unity.inputsystem
+      displayName: Input System
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: A new input system which can be used as a more extensible and
+        customizable alternative to Unity's classic input system in UnityEngine.Input.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.2-preview
+        - 0.2.0-preview
+        - 0.2.1-preview
+        - 0.2.6-preview
+        - 0.2.8-preview
+        - 0.2.10-preview
+        - 0.9.0-preview
+        - 0.9.1-preview
+        - 0.9.2-preview
+        - 0.9.3-preview
+        - 0.9.4-preview
+        - 0.9.5-preview
+        - 0.9.6-preview
+        - 1.0.0-preview
+        - 1.0.0-preview.1
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.0-preview.5
+        - 1.0.0-preview.6
+        - 1.0.0-preview.7
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        - 1.1.0-pre.5
+        - 1.1.0-pre.6
+        - 1.1.0-preview.1
+        - 1.1.0-preview.2
+        - 1.1.0-preview.3
+        - 1.1.1
+        - 1.2.0
+        - 1.3.0
+        - 1.4.1
+        compatible:
+        - 0.1.2-preview
+        - 0.2.0-preview
+        - 0.2.1-preview
+        - 0.2.6-preview
+        - 0.2.8-preview
+        - 0.2.10-preview
+        - 0.9.0-preview
+        - 0.9.1-preview
+        - 0.9.2-preview
+        - 0.9.3-preview
+        - 0.9.4-preview
+        - 0.9.5-preview
+        - 0.9.6-preview
+        - 1.0.0-preview
+        - 1.0.0-preview.1
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.0-preview.5
+        - 1.0.0-preview.6
+        - 1.0.0-preview.7
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        - 1.1.0-pre.5
+        - 1.1.0-pre.6
+        - 1.1.0-preview.1
+        - 1.1.0-preview.2
+        - 1.1.0-preview.3
+        - 1.1.1
+        - 1.2.0
+        - 1.3.0
+        - 1.4.1
+        verified: 1.3.0
+      dependencies:
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      keywords:
+      - input
+      - events
+      - keyboard
+      - mouse
+      - gamepad
+      - touch
+      - vr
+      - xr
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637769972190000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/Unity-Technologies/InputSystem.git
+        revision: 76d3fd182183dff9e9793431de614fd1e69e363c
+        path: 
     - packageId: com.unity.test-framework@1.1.29
       testable: 0
       isDirectDependency: 1
       version: 1.1.29
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.test-framework@1.1.29
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.test-framework@1.1.29
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1205,7 +1585,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1371,7 +1751,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1537,7 +1917,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.ugui@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.ugui@1.0.0
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1600,7 +1980,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.ai@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.ai@1.0.0
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1648,7 +2028,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.androidjni@1.0.0
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1696,7 +2076,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.animation@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.animation@1.0.0
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1744,7 +2124,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1792,7 +2172,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.audio@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.audio@1.0.0
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1840,7 +2220,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.cloth@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.cloth@1.0.0
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1892,7 +2272,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.director@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.director@1.0.0
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1948,7 +2328,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1997,7 +2377,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.imgui@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.imgui@1.0.0
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -2045,7 +2425,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -2093,7 +2473,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -2141,7 +2521,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.physics@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.physics@1.0.0
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -2189,7 +2569,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.physics2d@1.0.0
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -2237,7 +2617,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.screencapture@1.0.0
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -2289,7 +2669,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.terrain@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.terrain@1.0.0
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2337,7 +2717,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2393,7 +2773,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.tilemap@1.0.0
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2445,7 +2825,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.ui@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.ui@1.0.0
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2493,7 +2873,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.uielements@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.uielements@1.0.0
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2557,7 +2937,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.umbra@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.umbra@1.0.0
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2605,7 +2985,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2661,7 +3041,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2709,7 +3089,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2765,7 +3145,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2821,7 +3201,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2877,7 +3257,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2949,7 +3329,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.vehicles@1.0.0
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -3001,7 +3381,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.video@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.video@1.0.0
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -3061,7 +3441,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.vr@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.vr@1.0.0
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -3123,7 +3503,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.wind@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.wind@1.0.0
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -3171,7 +3551,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.xr@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.xr@1.0.0
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -3231,7 +3611,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.subsystems@1.0.0
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -3283,7 +3663,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3342,7 +3722,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3407,7 +3787,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3487,7 +3867,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.1
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.services.core@1.0.1
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.services.core@1.0.1
       assetPath: Packages/com.unity.services.core
       name: com.unity.services.core
       displayName: Services Core
@@ -3568,7 +3948,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3649,7 +4029,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.1.0
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.2d.common@4.1.0
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.2d.common@4.1.0
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3700,6 +4080,7 @@ m_PackageAssets:
         - 7.0.0-pre.4
         - 7.0.0
         - 8.0.0-pre.1
+        - 8.0.0-pre.2
         compatible:
         - 4.1.0
         - 4.2.0
@@ -3749,7 +4130,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.2
       source: 1
-      resolvedPath: D:\Unity\Unity'sProject\Ball Launcher\Library\PackageCache\com.unity.2d.path@4.0.2
+      resolvedPath: D:\GitHub\Git\Ball-Launcher\Ball Launcher\Library\PackageCache\com.unity.2d.path@4.0.2
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3816,5 +4197,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: D:/Unity/Unity'sProject/Ball Launcher/Packages
+m_ProjectPath: D:/GitHub/Git/Ball-Launcher/Ball Launcher/Packages
 m_EditorVersion: 2020.3.28f1 (f5400f52e03f)
